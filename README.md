@@ -3,10 +3,11 @@
 <ul type="square">
   <li> I´m from Portugal specifically from Aveiro! </li>
   <li> I'm starting my journey in the world of programming &#x1f4bb; </li> 
-  <li> I'm always looking forward to knowing more &#x1F9E0;  </li>
+  <li> I'm always looking forward to know more &#x1F9E0;  </li>
  </ul>
 
 ### If you wanna contact me: 
+<a href="https://www.instagram.com/clrs.a.s/?hl=pt"><img src="https://image.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg" widht="50" height="50"></a>
 
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
