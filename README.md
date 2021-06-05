@@ -1,9 +1,9 @@
-## Hi! My name is Clarisse!
-<p>About me &#x1F30C; </p>
+## Hi! My name is Clarisse! &#x1F30C;
+<p>About me </p>
 <ul type="square">
   <li> I'm from Portugal! </li>
   <li> I'm starting my journey in the world of programming </li> 
-  <li> I'm always looking forward to know more &#x1F9E0;  </li>
+  <li> I'm always looking forward to know more </li>
  </ul>
 
 ### If you wanna contact me: 
