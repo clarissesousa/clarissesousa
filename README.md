@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá! O meu nome é Clarisse! 👋
+- Sou de 🇵🇹 mais propriamente do distrito de Aveiro!
 
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
