@@ -1,8 +1,12 @@
-## Olá! O meu nome é Clarisse!
-<p> Sou de Portugal mais propriamente do distrito de Aveiro! 🌱</p>
+## Hi! My name is Clarisse!
+<p>About me &#x1F30C; </p>
+<ul type="square">
+  <li> I´m from Portugal specifically from Aveiro! </li>
+  <li> I'm starting my journey in the world of programming &#x1f4bb; </li> 
+  <li> I'm always looking forward to knowing more &#x1F9E0;  </li>
+ </ul>
 
-### Se me quiseres contactar:
-
+### If you wanna contact me: 
 
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
