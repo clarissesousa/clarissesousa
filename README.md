@@ -1,4 +1,4 @@
-## Olá! O meu nome é Clarisse! 👋
+## Olá! O meu nome é Clarisse!
 - Sou de Portugal mais propriamente do distrito de Aveiro!
 
 <!--
