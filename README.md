@@ -1,5 +1,5 @@
 ## Olá! O meu nome é Clarisse!
-<p> Sou de &#129409; mais propriamente do distrito de Aveiro! </p>
+<p> Sou de &1F1F5; mais propriamente do distrito de Aveiro! </p>
 - Sou iniciante 
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
