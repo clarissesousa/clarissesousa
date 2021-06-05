@@ -7,7 +7,8 @@
  </ul>
 
 ### If you wanna contact me: 
-<a href="https://www.instagram.com/clrs.a.s/?hl=pt"><img src="https://image.freepik.com/vetores-gratis/instagram-icone-novo_1057-2227.jpg" widht="50" height="50"></a>
+<a href="https://www.instagram.com/clrs.a.s/?hl=pt"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="40" height="40"></a>
+<a href="mailto:clarisse.escola1106@gmail.com"><img align="center" src="https://luna1.co/8b74d3.png" width="48"></a>
 
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
