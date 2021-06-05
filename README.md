@@ -2,7 +2,7 @@
 <p>About me &#x1F30C; </p>
 <ul type="square">
   <li> I´m from Portugal specifically from Aveiro! </li>
-  <li> I'm starting my journey in the world of programming &#x1f4bb; </li> 
+  <li> I'm starting my journey in the world of programming </li> 
   <li> I'm always looking forward to know more &#x1F9E0;  </li>
  </ul>
 
