@@ -1,11 +1,6 @@
 ## Hi! My name is Clarisse! &#x1F30C;
 <ul type="square">
   <li> I'm from Portugal! </li>
-
-### If you wanna contact me: 
-<a href="https://www.instagram.com/clrs.a.s/?hl=pt"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="40" height="40"></a>
-<a href="mailto:clarisse.escola1106@gmail.com"><img align="center" src="https://luna1.co/8b74d3.png" width="48"></a>
-
 <!--
 **clarissesousa/clarissesousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
